@@ -1,0 +1,16 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+*.log
+
+# Docker / Postgres
+postgres-data/
+pgdata/
+data/
+
+# Editor
+.vscode/
