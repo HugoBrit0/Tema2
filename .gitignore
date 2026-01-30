@@ -1,0 +1,5 @@
+node_modules/
+postgres-data/
+*.sqlnano
+*.log
+.env
